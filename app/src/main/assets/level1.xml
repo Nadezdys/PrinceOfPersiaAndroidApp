@@ -1,0 +1,737 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level screens="3">
+    <object typ="character">
+        <screen>1</screen>
+        <x>0</x>
+        <y>609</y>
+    </object>
+
+        <object typ="block">
+            <screen>1</screen>
+            <type>1</type>
+            <x>0</x>
+            <y>700</y>
+        </object>
+    <object typ="block">
+        <screen>1</screen>
+        <type>0</type>
+        <x>0</x>
+        <y>754</y>
+    </object>
+    <object typ="block">
+        <screen>1</screen>
+        <type>0</type>
+        <x>0</x>
+        <y>808</y>
+    </object>
+        <object typ="block">
+            <screen>1</screen>
+            <type>1</type>
+            <x>80</x>
+            <y>700</y>
+        </object>
+    <object typ="block">
+        <screen>1</screen>
+        <type>0</type>
+        <x>80</x>
+        <y>754</y>
+    </object>
+    <object typ="block">
+        <screen>1</screen>
+        <type>0</type>
+        <x>80</x>
+        <y>808</y>
+    </object>
+        <object typ="block">
+            <screen>1</screen>
+            <type>1</type>
+            <x>160</x>
+            <y>700</y>
+        </object>
+    <object typ="block">
+        <screen>1</screen>
+        <type>0</type>
+        <x>160</x>
+        <y>754</y>
+    </object>
+    <object typ="block">
+        <screen>1</screen>
+        <type>0</type>
+        <x>160</x>
+        <y>808</y>
+    </object>
+        <object typ="block">
+            <screen>1</screen>
+            <type>1</type>
+            <x>240</x>
+            <y>700</y>
+        </object>
+    <object typ="block">
+        <screen>1</screen>
+        <type>0</type>
+        <x>240</x>
+        <y>754</y>
+    </object>
+    <object typ="block">
+        <screen>1</screen>
+        <type>0</type>
+        <x>240</x>
+        <y>808</y>
+    </object>
+        <object typ="block">
+            <screen>1</screen>
+            <type>1</type>
+            <x>320</x>
+            <y>700</y>
+        </object>
+    <object typ="block">
+        <screen>1</screen>
+        <type>0</type>
+        <x>320</x>
+        <y>754</y>
+    </object>
+    <object typ="block">
+        <screen>1</screen>
+        <type>0</type>
+        <x>320</x>
+        <y>808</y>
+    </object>
+        <object typ="block">
+            <screen>1</screen>
+            <type>1</type>
+            <x>400</x>
+            <y>862</y>
+        </object>
+    <object typ="block">
+        <screen>1</screen>
+        <type>0</type>
+        <x>400</x>
+        <y>918</y>
+    </object>
+    <object typ="block">
+        <screen>1</screen>
+        <type>0</type>
+        <x>400</x>
+        <y>972</y>
+    </object>
+        <object typ="block">
+            <screen>1</screen>
+            <type>1</type>
+            <x>480</x>
+            <y>862</y>
+        </object>
+    <object typ="block">
+        <screen>1</screen>
+        <type>0</type>
+        <x>480</x>
+        <y>918</y>
+    </object>
+    <object typ="block">
+        <screen>1</screen>
+        <type>0</type>
+        <x>480</x>
+        <y>972</y>
+    </object>
+        <object typ="block">
+            <screen>1</screen>
+            <type>1</type>
+            <x>560</x>
+            <y>862</y>
+        </object>
+    <object typ="block">
+        <screen>1</screen>
+        <type>0</type>
+        <x>560</x>
+        <y>918</y>
+    </object>
+    <object typ="block">
+        <screen>1</screen>
+        <type>0</type>
+        <x>560</x>
+        <y>972</y>
+    </object>
+        <object typ="block">
+            <screen>1</screen>
+            <type>1</type>
+            <x>640</x>
+            <y>862</y>
+        </object>
+    <object typ="block">
+        <screen>1</screen>
+        <type>0</type>
+        <x>640</x>
+        <y>918</y>
+    </object>
+    <object typ="block">
+        <screen>1</screen>
+        <type>0</type>
+        <x>640</x>
+        <y>972</y>
+    </object>
+    <object typ="spike">
+        <screen>1</screen>
+        <type>3</type>
+        <x>720</x>
+        <y>808</y>
+    </object>
+    <object typ="spike">
+        <screen>1</screen>
+        <type>3</type>
+        <x>774</x>
+        <y>808</y>
+    </object>
+        <object typ="block">
+            <screen>1</screen>
+            <type>1</type>
+            <x>720</x>
+            <y>862</y>
+        </object>
+    <object typ="block">
+        <screen>1</screen>
+        <type>0</type>
+        <x>720</x>
+        <y>918</y>
+    </object>
+    <object typ="block">
+        <screen>1</screen>
+        <type>0</type>
+        <x>720</x>
+        <y>972</y>
+    </object>
+        <object typ="block">
+            <screen>1</screen>
+            <type>1</type>
+            <x>800</x>
+            <y>862</y>
+        </object>
+    <object typ="block">
+        <screen>1</screen>
+        <type>0</type>
+        <x>800</x>
+        <y>918</y>
+    </object>
+    <object typ="block">
+        <screen>1</screen>
+        <type>0</type>
+        <x>800</x>
+        <y>972</y>
+    </object>
+        <object typ="block">
+            <screen>1</screen>
+            <type>1</type>
+            <x>880</x>
+            <y>862</y>
+        </object>
+    <object typ="block">
+        <screen>1</screen>
+        <type>0</type>
+        <x>880</x>
+        <y>918</y>
+    </object>
+    <object typ="block">
+        <screen>1</screen>
+        <type>0</type>
+        <x>880</x>
+        <y>972</y>
+    </object>
+        <object typ="block">
+            <screen>1</screen>
+            <type>1</type>
+            <x>960</x>
+            <y>862</y>
+        </object>
+    <object typ="block">
+        <screen>1</screen>
+        <type>0</type>
+        <x>960</x>
+        <y>918</y>
+    </object>
+    <object typ="block">
+        <screen>1</screen>
+        <type>0</type>
+        <x>960</x>
+        <y>972</y>
+    </object>
+
+
+
+    <object typ="character">
+        <screen>2</screen>
+        <x>0</x>
+        <y>609</y>
+    </object>
+        <object typ="block">
+            <screen>2</screen>
+            <type>1</type>
+            <x>0</x>
+            <y>700</y>
+        </object>
+    <object typ="block">
+        <screen>2</screen>
+        <type>0</type>
+        <x>0</x>
+        <y>754</y>
+    </object>
+    <object typ="block">
+        <screen>2</screen>
+        <type>0</type>
+        <x>0</x>
+        <y>808</y>
+    </object>
+        <object typ="block">
+            <screen>2</screen>
+            <type>1</type>
+            <x>80</x>
+            <y>700</y>
+        </object>
+    <object typ="block">
+        <screen>2</screen>
+        <type>0</type>
+        <x>80</x>
+        <y>754</y>
+    </object>
+    <object typ="block">
+        <screen>2</screen>
+        <type>0</type>
+        <x>80</x>
+        <y>808</y>
+    </object>
+        <object typ="block">
+            <screen>2</screen>
+            <type>1</type>
+            <x>160</x>
+            <y>700</y>
+        </object>
+    <object typ="block">
+        <screen>2</screen>
+        <type>0</type>
+        <x>160</x>
+        <y>754</y>
+    </object>
+    <object typ="block">
+        <screen>2</screen>
+        <type>0</type>
+        <x>160</x>
+        <y>808</y>
+    </object>
+        <object typ="block">
+            <screen>2</screen>
+            <type>1</type>
+            <x>240</x>
+            <y>700</y>
+        </object>
+    <object typ="block">
+        <screen>2</screen>
+        <type>0</type>
+        <x>240</x>
+        <y>754</y>
+    </object>
+    <object typ="block">
+        <screen>2</screen>
+        <type>0</type>
+        <x>240</x>
+        <y>808</y>
+    </object>
+        <object typ="block">
+            <screen>2</screen>
+            <type>1</type>
+            <x>480</x>
+            <y>700</y>
+        </object>
+    <object typ="block">
+        <screen>2</screen>
+        <type>0</type>
+        <x>480</x>
+        <y>754</y>
+    </object>
+    <object typ="block">
+        <screen>2</screen>
+        <type>0</type>
+        <x>480</x>
+        <y>808</y>
+    </object>
+        <object typ="block">
+            <screen>2</screen>
+            <type>1</type>
+            <x>560</x>
+            <y>700</y>
+        </object>
+    <object typ="block">
+        <screen>2</screen>
+        <type>0</type>
+        <x>560</x>
+        <y>754</y>
+    </object>
+    <object typ="block">
+        <screen>2</screen>
+        <type>0</type>
+        <x>560</x>
+        <y>808</y>
+    </object>
+        <object typ="block">
+            <screen>2</screen>
+            <type>1</type>
+            <x>640</x>
+            <y>700</y>
+        </object>
+    <object typ="block">
+        <screen>2</screen>
+        <type>0</type>
+        <x>640</x>
+        <y>754</y>
+    </object>
+    <object typ="block">
+        <screen>2</screen>
+        <type>0</type>
+        <x>640</x>
+        <y>808</y>
+    </object>
+        <object typ="block">
+            <screen>2</screen>
+            <type>1</type>
+            <x>720</x>
+            <y>700</y>
+        </object>
+    <object typ="block">
+        <screen>2</screen>
+        <type>0</type>
+        <x>720</x>
+        <y>754</y>
+    </object>
+    <object typ="block">
+        <screen>2</screen>
+        <type>0</type>
+        <x>720</x>
+        <y>808</y>
+    </object>
+    <object typ="spike">
+        <screen>2</screen>
+        <type>3</type>
+        <x>720</x>
+        <y>646</y>
+    </object>
+    <object typ="block">
+        <screen>2</screen>
+        <type>1</type>
+        <x>800</x>
+        <y>700</y>
+    </object>
+    <object typ="block">
+        <screen>2</screen>
+        <type>0</type>
+        <x>800</x>
+        <y>754</y>
+    </object>
+    <object typ="block">
+        <screen>2</screen>
+        <type>0</type>
+        <x>800</x>
+        <y>808</y>
+    </object>
+    <object typ="block">
+        <screen>2</screen>
+        <type>0</type>
+        <x>800</x>
+        <y>862</y>
+    </object>
+    <object typ="block">
+        <screen>2</screen>
+        <type>0</type>
+        <x>800</x>
+        <y>916</y>
+    </object>
+    <object typ="block">
+        <screen>2</screen>
+        <type>1</type>
+        <x>880</x>
+        <y>916</y>
+    </object>
+    <object typ="block">
+        <screen>2</screen>
+        <type>0</type>
+        <x>880</x>
+        <y>970</y>
+    </object>
+    <object typ="block">
+        <screen>2</screen>
+        <type>0</type>
+        <x>880</x>
+        <y>1024</y>
+    </object>
+    <object typ="block">
+        <screen>2</screen>
+        <type>1</type>
+        <x>960</x>
+        <y>916</y>
+    </object>
+    <object typ="block">
+        <screen>2</screen>
+        <type>0</type>
+        <x>960</x>
+        <y>970</y>
+    </object>
+    <object typ="block">
+        <screen>2</screen>
+        <type>0</type>
+        <x>960</x>
+        <y>1024</y>
+    </object>
+
+
+
+    <object typ="character">
+        <screen>3</screen>
+        <x>0</x>
+        <y>825</y>
+    </object>
+    <object typ="block">
+        <screen>3</screen>
+        <type>1</type>
+        <x>0</x>
+        <y>916</y>
+    </object>
+    <object typ="block">
+        <screen>3</screen>
+        <type>0</type>
+        <x>0</x>
+        <y>970</y>
+    </object>
+    <object typ="block">
+        <screen>3</screen>
+        <type>0</type>
+        <x>0</x>
+        <y>1024</y>
+    </object>
+
+    <object typ="block">
+        <screen>3</screen>
+        <type>1</type>
+        <x>80</x>
+        <y>916</y>
+    </object>
+    <object typ="block">
+        <screen>3</screen>
+        <type>0</type>
+        <x>80</x>
+        <y>970</y>
+    </object>
+    <object typ="block">
+        <screen>3</screen>
+        <type>0</type>
+        <x>80</x>
+        <y>1024</y>
+    </object>
+    <object typ="block">
+        <screen>3</screen>
+        <type>1</type>
+        <x>160</x>
+        <y>916</y>
+    </object>
+    <object typ="block">
+        <screen>3</screen>
+        <type>0</type>
+        <x>160</x>
+        <y>970</y>
+    </object>
+    <object typ="block">
+        <screen>3</screen>
+        <type>0</type>
+        <x>160</x>
+        <y>1024</y>
+    </object>
+
+    <object typ="block">
+        <screen>3</screen>
+        <type>1</type>
+        <x>240</x>
+        <y>916</y>
+    </object>
+    <object typ="block">
+        <screen>3</screen>
+        <type>0</type>
+        <x>240</x>
+        <y>970</y>
+    </object>
+    <object typ="block">
+        <screen>3</screen>
+        <type>0</type>
+        <x>240</x>
+        <y>1024</y>
+    </object>
+
+    <object typ="block">
+        <screen>3</screen>
+        <type>1</type>
+        <x>320</x>
+        <y>916</y>
+    </object>
+    <object typ="block">
+        <screen>3</screen>
+        <type>0</type>
+        <x>320</x>
+        <y>970</y>
+    </object>
+    <object typ="block">
+        <screen>3</screen>
+        <type>0</type>
+        <x>320</x>
+        <y>1024</y>
+    </object>
+
+    <object typ="block">
+        <screen>3</screen>
+        <type>1</type>
+        <x>400</x>
+        <y>916</y>
+    </object>
+    <object typ="block">
+        <screen>3</screen>
+        <type>0</type>
+        <x>400</x>
+        <y>970</y>
+    </object>
+    <object typ="block">
+        <screen>3</screen>
+        <type>0</type>
+        <x>400</x>
+        <y>1024</y>
+    </object>
+
+    <object typ="block">
+        <screen>3</screen>
+        <type>1</type>
+        <x>480</x>
+        <y>916</y>
+    </object>
+    <object typ="block">
+        <screen>3</screen>
+        <type>0</type>
+        <x>480</x>
+        <y>970</y>
+    </object>
+    <object typ="block">
+        <screen>3</screen>
+        <type>0</type>
+        <x>480</x>
+        <y>1024</y>
+    </object>
+
+    <object typ="block">
+        <screen>3</screen>
+        <type>1</type>
+        <x>560</x>
+        <y>916</y>
+    </object>
+    <object typ="block">
+        <screen>3</screen>
+        <type>0</type>
+        <x>560</x>
+        <y>970</y>
+    </object>
+    <object typ="block">
+        <screen>3</screen>
+        <type>0</type>
+        <x>560</x>
+        <y>1024</y>
+    </object>
+
+    <object typ="block">
+        <screen>3</screen>
+        <type>1</type>
+        <x>640</x>
+        <y>916</y>
+    </object>
+    <object typ="block">
+        <screen>3</screen>
+        <type>0</type>
+        <x>640</x>
+        <y>970</y>
+    </object>
+    <object typ="block">
+        <screen>3</screen>
+        <type>0</type>
+        <x>640</x>
+        <y>1024</y>
+    </object>
+
+    <object typ="block">
+        <screen>3</screen>
+        <type>1</type>
+        <x>720</x>
+        <y>916</y>
+    </object>
+    <object typ="block">
+        <screen>3</screen>
+        <type>0</type>
+        <x>720</x>
+        <y>970</y>
+    </object>
+    <object typ="block">
+        <screen>3</screen>
+        <type>0</type>
+        <x>720</x>
+        <y>1024</y>
+    </object>
+
+    <object typ="block">
+        <screen>3</screen>
+        <type>1</type>
+        <x>800</x>
+        <y>916</y>
+    </object>
+    <object typ="block">
+        <screen>3</screen>
+        <type>0</type>
+        <x>800</x>
+        <y>970</y>
+    </object>
+    <object typ="block">
+        <screen>3</screen>
+        <type>0</type>
+        <x>800</x>
+        <y>1024</y>
+    </object>
+    <object typ="gate">
+        <x>720</x>
+        <y>673</y>
+    </object>
+
+    <object typ="block">
+        <screen>3</screen>
+        <type>1</type>
+        <x>880</x>
+        <y>916</y>
+    </object>
+    <object typ="block">
+        <screen>3</screen>
+        <type>0</type>
+        <x>880</x>
+        <y>970</y>
+    </object>
+    <object typ="block">
+        <screen>3</screen>
+        <type>0</type>
+        <x>880</x>
+        <y>1024</y>
+    </object>
+
+    <object typ="block">
+        <screen>3</screen>
+        <type>1</type>
+        <x>960</x>
+        <y>916</y>
+    </object>
+    <object typ="block">
+        <screen>3</screen>
+        <type>0</type>
+        <x>960</x>
+        <y>970</y>
+    </object>
+    <object typ="block">
+        <screen>3</screen>
+        <type>0</type>
+        <x>960</x>
+        <y>1024</y>
+    </object>
+
+</level>
